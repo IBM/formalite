@@ -6,4 +6,4 @@ openpyxl~=3.0.10
 Jinja2>=3.0.3
 pandas~=1.5.2
 toposort~=1.7
-numpy~=1.24.1
+numpy~=1.26.4
